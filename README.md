@@ -3,6 +3,7 @@
 ```
 pip3 install fastapi uvicorn httpx
 ```
+## Need to put in pw.txt in ../.. directory of fastapi folder
 
 ## go to fastapi folder
 ```
